@@ -1,35 +1,36 @@
 import random
-#variaveis
-Mesa = [
+import time
+valores = [
         [9,8,7],
         [6,5,4],
         [3,2,1]
         ]
 
-#função jogada
-def mesa(entrada_jogada):
-    for row in Mesa:
-        for item in row:
-            print(f"{item:2}", end=" ") 
-        print()
+def mesa():
+    print(f"{valores[int(0)][int(0)]} | {valores[int(0)][int(1)]} | {valores[int(0)][int(2)]}" )
+    print()
+    print(f"{valores[int(1)][int(0)]} | {valores[int(1)][int(1)]} | {valores[int(1)][int(2)]}" )
+    print()
+    print(f"{valores[int(2)][int(0)]} | {valores[int(2)][int(1)]} | {valores[int(2)][int(2)]}" )
 
 def jogada():
-    mesa(Mesa)
-    mov_player_linha = input("Escolha uma linha")
-    mov_player_col = input("Escolha uma coluna")
-    Mesa[int(mov_player_linha)][int(mov_player_col)] = "X"
-
-def repetido():
-    num = Mesa[int(linha)][int(coluna)]
-    if num == "X":
-        print("Selecione outro numero")
+    mov_player_linha = input("Escolha uma linha ")
+    mov_player_col = input("Escolha uma coluna ")
+    valores[int(mov_player_linha)][int(mov_player_col)] = "X"
 
 def jogadaBot():
-    mesa(Mesa)
-    linha = random.randint(1,9)
-    coluna = random.randint(1,9)
+    linha = random.randint(0,2)
+    coluna = random.randint(0,2)
+    valores[int(linha)][int(coluna)] = "O"
+    
 
-
+mesa()
 jogada()
-mesa(jogada)
-
+mesa()
+time.sleep(1)
+print("Minha vez!")
+time.sleep(1)
+print("Hmmm...")
+time.sleep(1)
+jogadaBot()
+mesa()
