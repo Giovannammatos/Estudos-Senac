@@ -1,0 +1,14 @@
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\bin\Debug\net9.0\alg-if.exe
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\bin\Debug\net9.0\alg-if.deps.json
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\bin\Debug\net9.0\alg-if.runtimeconfig.json
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\bin\Debug\net9.0\alg-if.dll
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\bin\Debug\net9.0\alg-if.pdb
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\alg-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\alg-if.AssemblyInfoInputs.cache
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\alg-if.AssemblyInfo.cs
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\alg-if.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\alg-if.dll
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\refint\alg-if.dll
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\alg-if.pdb
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\alg-if.genruntimeconfig.cache
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-if\obj\Debug\net9.0\ref\alg-if.dll

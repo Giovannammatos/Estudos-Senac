@@ -1,0 +1,14 @@
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\alg-atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\alg-atv.AssemblyInfoInputs.cache
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\alg-atv.AssemblyInfo.cs
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\alg-atv.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\bin\Debug\net9.0\alg-atv.exe
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\bin\Debug\net9.0\alg-atv.deps.json
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\bin\Debug\net9.0\alg-atv.runtimeconfig.json
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\bin\Debug\net9.0\alg-atv.dll
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\bin\Debug\net9.0\alg-atv.pdb
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\alg-atv.dll
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\refint\alg-atv.dll
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\alg-atv.pdb
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\alg-atv.genruntimeconfig.cache
+C:\Users\Giovanna\Documents\MeusProjetos\Senac\alg-atv\obj\Debug\net9.0\ref\alg-atv.dll
