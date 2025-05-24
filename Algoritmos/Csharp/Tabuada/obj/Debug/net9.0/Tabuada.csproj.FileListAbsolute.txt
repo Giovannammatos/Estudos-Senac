@@ -1,0 +1,15 @@
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.AssemblyInfoInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.AssemblyInfo.cs
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.sourcelink.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\bin\Debug\net9.0\Tabuada.exe
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\bin\Debug\net9.0\Tabuada.deps.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\bin\Debug\net9.0\Tabuada.runtimeconfig.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\bin\Debug\net9.0\Tabuada.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\bin\Debug\net9.0\Tabuada.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\refint\Tabuada.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\Tabuada.genruntimeconfig.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Tabuada\obj\Debug\net9.0\ref\Tabuada.dll

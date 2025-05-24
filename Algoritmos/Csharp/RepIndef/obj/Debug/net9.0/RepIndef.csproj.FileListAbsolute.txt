@@ -1,0 +1,15 @@
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.AssemblyInfoInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.AssemblyInfo.cs
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.sourcelink.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\bin\Debug\net9.0\RepIndef.exe
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\bin\Debug\net9.0\RepIndef.deps.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\bin\Debug\net9.0\RepIndef.runtimeconfig.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\bin\Debug\net9.0\RepIndef.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\bin\Debug\net9.0\RepIndef.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\refint\RepIndef.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\RepIndef.genruntimeconfig.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\RepIndef\obj\Debug\net9.0\ref\RepIndef.dll

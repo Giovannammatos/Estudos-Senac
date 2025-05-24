@@ -1,0 +1,14 @@
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\bin\Debug\net9.0\CalculaDobro.exe
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\bin\Debug\net9.0\CalculaDobro.deps.json
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\bin\Debug\net9.0\CalculaDobro.runtimeconfig.json
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\bin\Debug\net9.0\CalculaDobro.dll
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\bin\Debug\net9.0\CalculaDobro.pdb
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\CalculaDobro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\CalculaDobro.AssemblyInfoInputs.cache
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\CalculaDobro.AssemblyInfo.cs
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\CalculaDobro.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\CalculaDobro.dll
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\refint\CalculaDobro.dll
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\CalculaDobro.pdb
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\CalculaDobro.genruntimeconfig.cache
+C:\Users\Giovanna\.vscode\Senac\CalculaDobro\obj\Debug\net9.0\ref\CalculaDobro.dll

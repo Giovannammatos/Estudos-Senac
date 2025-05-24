@@ -13,8 +13,12 @@
         "packagesPath": "C:\\Users\\Giovanna\\.nuget\\packages\\",
         "outputPath": "C:\\MeusProjetos\\Estudos-Senac\\Algoritmos\\Csharp\\alg03\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Giovanna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Giovanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

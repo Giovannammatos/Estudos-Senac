@@ -1,0 +1,15 @@
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.AssemblyInfoInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.AssemblyInfo.cs
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.sourcelink.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\bin\Debug\net9.0\Repeticao.exe
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\bin\Debug\net9.0\Repeticao.deps.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\bin\Debug\net9.0\Repeticao.runtimeconfig.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\bin\Debug\net9.0\Repeticao.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\bin\Debug\net9.0\Repeticao.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\refint\Repeticao.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\Repeticao.genruntimeconfig.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\Repeticao\obj\Debug\net9.0\ref\Repeticao.dll

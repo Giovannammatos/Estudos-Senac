@@ -1,0 +1,15 @@
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\bin\Debug\net9.0\CalculoImc.exe
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\bin\Debug\net9.0\CalculoImc.deps.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\bin\Debug\net9.0\CalculoImc.runtimeconfig.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\bin\Debug\net9.0\CalculoImc.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\bin\Debug\net9.0\CalculoImc.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.AssemblyInfoInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.AssemblyInfo.cs
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.sourcelink.json
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\refint\CalculoImc.dll
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.pdb
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\CalculoImc.genruntimeconfig.cache
+C:\MeusProjetos\Estudos-Senac\Algoritmos\Csharp\CalculoImc\obj\Debug\net9.0\ref\CalculoImc.dll
